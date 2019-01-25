@@ -1,0 +1,19 @@
+{
+  "name": "mini-back",
+  "version": "1.0.0",
+  "description": "know you english mini program backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "english"
+  ],
+  "author": "chenzc",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "multer": "^1.3.1",
+    "watson-developer-cloud": "^3.5.3"
+  }
+}
