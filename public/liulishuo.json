@@ -1,0 +1,1032 @@
+{
+	"Level 1":[
+			[
+				[
+					{
+						"type":"Listening",
+						"title":"Name & Gender",
+						"courses": [
+							[
+								"This is Dan.",
+								"Dan is a man.",
+								"This is Tina.",
+								"Tina is a woman.",
+								"Who is a man?",
+								"Dan is a man."
+							],
+							[
+								"This is Ben.",
+								"Ben is a boy.",
+								"This is Lisa.",
+								"Lisa is a girl.",
+								"Who is a girl?",
+								"Lisa is a girl."
+							],
+							[
+								"This is Dan.",
+								"This is a Ben.",
+								"Dan is a man and Ben is a boy.",
+								"Who is a man?",
+								"Dan is a man."
+							],
+							[
+								"This is Tina.",
+								"This is Lisa.",
+								"Tina is a woman and Lisa is a girl.",
+								"Who is a woman?",
+								"Tina is a woman."
+							],
+							[
+								"Here are three people",
+								"This person is a man.",
+								"This person is a woman.",
+								"This person is a man.",
+								"Which person is a woman?",
+								"This person is a woman, her name is Tina.",
+								"Which person is a boy?",
+								"This person is a boy, his name is Ben.",
+								"Is this person a woman? This person isn't a woman."
+							]
+						]
+					},
+					{
+						"type":"Vocabulary",
+						"title":"Daily Objects",
+						"courses": [
+							[
+								"A door",
+								"This is a door.",
+								"A window",
+								"This is a window.",
+								"A chair",
+								"This is a chair.",
+								"A key.",
+								"This is a key."
+							],
+							[
+								"A book",
+								"This is a book.",
+								"A desk",
+								"This is a desk.",
+								"A pencil",
+								"This is a pencil.",
+								"A cellphone",
+								"This is a cellphone.",
+								"A pen",
+								"This is a pen."
+							]
+						]
+					},
+					{
+						"type":"Vocabulary",
+						"title":"Daily Actions",
+						"courses": [
+							[
+								"Sit down.",
+								"Stand up.",
+								"Close the door.",
+								"Open the door.",
+								"Pick up the keys.",
+								"Put down the keys."
+							]
+						]
+					},
+					{
+						"type":"Dialogue",
+						"title":"What's Your Name?",
+						"courses": [
+							[
+								"Here are two people, man and a woman.",
+								"Hello, my name is Dan. What is your name?",
+								"Hello, Dan. My name is Tina.",
+								"Your name is Tina?",
+								"Yes, that's right. My name is Tina.",
+								"And your name is Dan, right?",
+								"Yes, that's right. My name is Dan.",
+								"It's nice to meet you, Dan.",
+								"It's nice to meet you, Tina."
+							],
+							[
+								"Here are two people, a boy and a girl.",
+								"Hi, my name is Ben. What's your name?",
+								"Hi, Ben, my name is Lisa.",
+								"Lisa?",
+								"Yes, Lisa. L-i-s-a."
+							]
+						]
+					},
+					{
+						"type":"Letters & Numbers",
+						"title":"Letters A-E",
+						"courses": [
+							[
+								"A",
+								"An apple",
+								"An arm",
+								"Africa",
+								"Asia",
+								"An ant"
+							],
+							[
+								"B",
+								"A book",
+								"A banana",
+								"A bird",
+								"A boy",
+								"A bank"
+							],
+							[
+								"C",
+								"A city",
+								"A clock",
+								"A car",
+								"A circle",
+								"Cold"
+							],
+							[
+								"D",
+								"A desk",
+								"A day",
+								"A door",
+								"Down",
+								"A dress"
+							],
+							[
+								"E",
+								"An ear",
+								"East",
+								"Egypt",
+								"An elevator",
+								"Eleven"
+							]
+						]
+					},
+					{
+						"type":"Letters & Numbers",
+						"title":"Numbers 1-10",
+						"courses": [
+							[
+								"One",
+								"Two",
+								"Three",
+								"Four",
+								"Five",
+								"Six",
+								"Seven",
+								"Eight",
+								"Nine",
+								"Ten"
+							]
+						]
+					}
+				],
+				[
+					{
+						"type":"Listening",
+						"title":"People & Countries",
+						"courses": [
+							[
+								"This is Dan.",
+								"Hello, my name is Dan.",
+								"Dan is a man.",
+								"This is Tina.",
+								"Hi, my name is Tina.",
+								"Tina is a woman."
+							],
+							[
+								"This is Ben.",
+								"Hi, my name is Ben.",
+								"Ben is a boy.",
+								"This is Lisa.",
+								"Hello, my name is Lisa.",
+								"Lisa is a girl."
+							],
+							[
+								"This is Dan.",
+								"This is Ben.",
+								"Dan is a man and Ben is a boy."
+							],
+							[
+								"This is Tina.",
+								"This is Lisa.",
+								"Tina is a woman and Lisa is a girl."
+							],
+							[
+								"This man's name is Dan.",
+								"Dan, D-a-n.",
+								"This woman's name is Tina.",
+								"Tina, T-i-n-a.",
+								"This boy's name is Ben.",
+								"Ben, B-e-n.",
+								"This girl's name is Lisa.",
+								"Lisa, L-i-s-a."
+							],
+							[
+								"Here are three people.",
+								"Here are three countries, France, Japan and Canada."
+							]
+						]
+					},
+					{
+						"type":"Vocabulary",
+						"title":"Daily Objects",
+						"courses": [
+							[
+								"This is a door.",
+								"This is a chair.",
+								"This is a key.",
+								"This is a desk.",
+								"This is a cell phone."
+							],
+							[
+								"This is a windows.",
+								"These are stairs.",
+								"This is a book.",
+								"This is a pencil.",
+								"This is a pen."
+							],
+							[
+								"A bathroom.",
+								"This is a bathroom.",
+								"An elevator.",
+								"This is an elevator.",
+								"A clock.",
+								"This is a clock.",
+								"A watch.",
+								"This is a watch.",
+								"A hand.",
+								"This is a hand."
+							],
+							[
+								"A bathroom.",
+								"B-a-t-h-r-o-o-m",
+								"An elevator.",
+								"E-l-e-v-a-t-o-r",
+								"A clock.",
+								"C-l-o-c-k.",
+								"A watch.",
+								"W-a-t-c-h.",
+								"A hand.",
+								"H-a-n-d."
+							]
+						]
+					},
+					{
+						"type":"Vocabulary",
+						"title":"Daily Actions",
+						"courses": [
+							[
+								"Sit down.",
+								"Stand up.",
+								"Close the door.",
+								"Open the door.",
+								"Pick up the keys.",
+								"Put down the keys."
+							],
+							[
+								"Go up the stairs.",
+								"Go down the stairs.",
+								"Put up your hand.",
+								"Put down your hand.",
+								"Open the book.",
+								"Close the book."
+							]
+						]
+					},
+					{
+						"type":"Dialogue",
+						"title":"Nice to Meet You",
+						"courses": [
+							[
+								"Here are two people, a man and a woman.",
+								"Hello, my name is Dan. What is your name?",
+								"Hello, Dan. My name is Tina.",
+								"Tina?",
+								"Yes, my name is Tina."
+							],
+							[
+								"And your name is Dan, right?",
+								"Yes, my name is Dan, D-a-n.",
+								"It's nice to meet you, Dan.",
+								"It's nice to meet you, Tina."
+							],
+							[
+								"Who is that? What is his name?",
+								"His name is Ken.",
+								"Ken?",
+								"Yes, his name is Ken, K-e-n."
+							],
+							[
+								"Who is that?",
+								"Her name is Kim."
+							],
+							[
+								"Tina, this is Ken. Ken, this is Tina.",
+								"Hi, Tina. It's nice to meet you."
+							],
+							[
+								"Dan, this is Kim. Kim, this is Dan.",
+								"Hi, Dan. It's nice to meet you.",
+								"Hi, Kim. It's nice to meet you too."
+							]
+						]
+					},
+					{
+						"type":"Letters & Numbers",
+						"title":"Letters F-J",
+						"courses": [
+							[
+								"F",
+								"A family",
+								"Fingers",
+								"Fifteen",
+								"France",
+								"February"
+							],
+							[
+								"G",
+								"A girl",
+								"A game",
+								"Germany",
+								"Green",
+								"Goat"
+							],
+							[
+								"H",
+								"A hand",
+								"Hands",
+								"Hair",
+								"A house",
+								"Happy"
+							],
+							[
+								"I",
+								"Ice",
+								"Ink",
+								"India",
+								"Ireland",
+								"Italy"
+							],
+							[
+								"J",
+								"Japan",
+								"Jeans",
+								"Juice",
+								"June",
+								"July"
+							]
+						]
+					},
+					{
+						"type":"Letters & Numbers",
+						"title":"Numbers 11-20",
+						"courses": [
+							[
+								"Eleven",
+								"Twelve",
+								"Thirteen",
+								"Fourteen",
+								"Fifteen",
+								"Sixteen",
+								"Seventeen",
+								"Eighteen",
+								"Nineteen",
+								"Twenty"
+							]
+						]
+					}
+				],
+				[
+					{
+						"title":"Listening",
+						"courses": [
+							[
+								"This is Dan.",
+								"Hello, my name is Dan.",
+								"Dan is a man.",
+								"He comes from the US.",
+								"This is Tina.",
+								"Hi, my name is Tina.",
+								"Tina is a woman.",
+								"She comes from China."
+							],
+							[
+								"This is Ben.",
+								"Hello, my name is Ben.",
+								"Ben is a boy.",
+								"He comes from Canada.",
+								"This is Lisa.",
+								"Lisa is a girl.",
+								"She comes from the US."
+							],
+							[
+								"Dan comes from the US.",
+								"Tina comes fomr China.",
+								"They come from different countries.",
+								"They don't come from the same country.",
+								"Ben comes from Canada and Lisa comes from the US.",
+								"They come form different countries.",
+								"Dan and Lisa come from the US.",
+								"They come from the same country."
+							],
+							[
+								"Here are three people, two man and a woman.",
+								"They are adults.",
+								"They are not children.",
+								"Here are three people, two girls and a boy.",
+								"They are children.",
+								"They are not adults."
+							]
+						]
+					},
+					{
+						"title":"Vocabulary",
+						"courses": [
+							[
+								"This is a chair.",
+								"People sit on chairs.",
+								"This is a door.",
+								"People open and close doors.",
+								"This is a window.",
+								"This window is closed.",
+								"Two books.",
+								"People read books.",
+								"Three pencils.",
+								"People write with pencils."
+							],
+							[
+								"A bathroom.",
+								"An elevator.",
+								"A clock.",
+								"A watch.",
+								"A hand."
+							],
+							[
+								"Two hands.",
+								"Here are two hands.",
+								"A foot.",
+								"This is a foot.",
+								"Here are two feet.",
+								"An arm.",
+								"This is an arm.",
+								"A leg.",
+								"This is a leg."
+							],
+							[
+								"Sit down.",
+								"Stand up.",
+								"Close the door.",
+								"Open the door.",
+								"Pick up the keys.",
+								"Put down the keys."
+							]
+						]
+					},
+					{
+						"title":"Dialogue",
+						"courses": [
+							[
+								"Hi, my name is Dan, I come from the US, where do you come from?",
+								"Hi, my name is Tina, I come from China."
+							],
+							[
+								"Who is that?",
+								"That's Kim.",
+								"Where does she come from?",
+								"She comes from Korea."
+							],
+							[
+								"Hi, my name is Kim. I come from Korea. Do you both come from the US?",
+								"No, we don't. We come from different countries. I come from China and he comes from the US."
+							],
+							[
+								"What is your name?",
+								"What is my name? My name is Ben.",
+								"Do you come from the US?",
+								"Do I come from the US. No, I don't come from the US."
+							],
+							[
+								"Where do you come from?",
+								"Where do you come from? I come from Canada."
+							]
+						]
+					},
+					{
+						"title":"Letters & Numbers",
+						"courses": [
+							[
+								"K",
+								"Keys",
+								"Kids",
+								"A kitchen",
+								"Korea",
+								"A kitten"
+							],
+							[
+								"L",
+								"Left",
+								"A leg",
+								"London",
+								"A leaf",
+								"A lock"
+							],
+							[
+								"M",
+								"The Moon",
+								"Mexico",
+								"Music",
+								"March",
+								"May"
+							],
+							[
+								"N",
+								"Night",
+								"A nose",
+								"North",
+								"November",
+								"Notebooks"
+							],
+							[
+								"O",
+								"An ocean",
+								"On",
+								"Off",
+								"Open",
+								"October"
+							],
+							[
+								"Ten",
+								"Twenty",
+								"Twenty-two",
+								"Thirty",
+								"Thirty-six",
+								"Forty",
+								"Forty-one",
+								"Fifty",
+								"Fifty-seven"
+							],
+							[
+								"P",
+								"A pencil",
+								"Paper",
+								"Paris",
+								"Pull",
+								"Push"
+							],
+							[
+								"Q",
+								"A question",
+								"Quiz",
+								"A queen",
+								"Quiet",
+								"A queue"
+							]
+						]
+					}
+				],
+				[
+					{
+						"title":"Listening",
+						"courses": [
+							[
+								"This is Dan.",
+								"Hello, my name is Dan.",
+								"Dan is a man.",
+								"I come from the US.",
+								"This is Tina.",
+								"Hi, my name is Tina.",
+								"Tina is a woman.",
+								"I come from China.",
+								"Her name is Tina.",
+								"She comes from China."
+							],
+							[
+								"This is Ben.",
+								"Ben is from Canada.",
+								"He isn't from the US.",
+								"This is Lisa.",
+								"She comes from the US.",
+								"She and Ben are from the US.",
+								"They come from the same country.",
+								"She is from China.",
+								"The boy's name is Ben."
+							],
+							[
+								"Here are three cities.",
+								"This city is San Francisco.",
+								"This city is Beijing.",
+								"This city is London.",
+								"San Francisco is in the US.",
+								"Beijing is in China.",
+								"London is in England."
+							],
+							[
+								"China is a country.",
+								"Tina is from China.",
+								"She lives in Beijing.",
+								"Ben is from Canada.",
+								"He lives in Toronto."
+							]
+						]
+					},
+					{
+						"title":"Vocabulary",
+						"courses": [
+							[
+								"Go in to the bathroom.",
+								"Come out of the bathroom.",
+								"Go in to the elevator.",
+								"Come out of the elevator.",
+								"Wait for the elevator.",
+								"She's going in to the elevator.",
+								"She's comming out of the elevator.",
+								"He's going in to the bathroom."
+							],
+							[
+								"Here are two hands.",
+								"This is a foot.",
+								"Here are two feet.",
+								"This is an arm.",
+								"This is a leg.",
+								"Here is a leg."
+							],
+							[
+								"Go up the stairs.",
+								"Go down the stairs.",
+								"Put up your hand.",
+								"Put down your hand.",
+								"Open the book.",
+								"Close the book."
+							],
+							[
+								"Turn left.",
+								"Turn right.",
+								"Go straight.",
+								"Stop.",
+								"Turn around."
+							],
+							[
+								"Sunny weather.",
+								"Rainy weather.",
+								"Cloudy weather.",
+								"Cold weather.",
+								"Hot weather."
+							],
+							[
+								"It's cloudy.",
+								"It's hot.",
+								"It's raining."
+							]
+						]
+					},
+					{
+						"title":"Dialogue",
+						"courses": [
+							[
+								"Hi, Tina, how are you today?",
+								"I'm fine, thanks. How are you?",
+								"I,m fine. It's nice to see you. "
+							],
+							[
+								"Hello, is this Tina?",
+								"Hi, yes, this is Tina, who is this?",
+								"It's Dan.",
+								"Oh, hi Dan, how are you today?",
+								"I'm fine. Thanks. How are you?",
+								"I'm fine."
+							],
+							[
+								"Hi, Dan, how is the weather there?",
+								"It's fine. It's sunny and wram.",
+								"Good, the weather is good here too."
+							],
+							[
+								"How is the weather today?",
+								"It's raning.",
+								"Really? It's sunny here.",
+								"Well, have a good day.",
+								"Thanks, you too."
+							],
+							[
+								"Who is she?",
+								"That's Kim.",
+								"Where is she from?",
+								"She's from Korea.",
+								"Does she live there?",
+								"Yes, she does. She lives in Seoul."
+							],
+							[
+								"Hi, my name is Dan. I'm from the US. Where are you from?",
+								"Hi, my name is Tina. I'm from China.",
+								"Where do you live?",
+								"I live in Beijing. How about you?",
+								"I live in San Francisco."
+							]
+						]
+					},
+					{
+						"title":"Letters & Numbers",
+						"courses": [
+							[
+								"Sixty",
+								"Sixty-eight",
+								"Seventy",
+								"Seventy-four",
+								"Eighty",
+								"Eigtty-nine",
+								"Ninety",
+								"Ninety-three",
+								"One hundred"
+							],
+							[
+								"R",
+								"Right",
+								"Red",
+								"Russia",
+								"Read",
+								"A ruler"
+							],
+							[
+								"S",
+								"The Sun",
+								"Sad",
+								"South",
+								"Sydney",
+								"Six"
+							],
+							[
+								"T",
+								"A taxi",
+								"A tomato Toes",
+								"A teacher",
+								"Ten"
+							],
+							[
+								"U",
+								"Under",
+								"Unhappy",
+								"An umbrella",
+								"Uniforms",
+								"The United States"
+							],
+							[
+								"V",
+								"Vegetables",
+								"A violin",
+								"Vietnam",
+								"Volleyball",
+								"Venice"
+							],
+							[
+								"W",
+								"Water",
+								"A woman",
+								"A watch",
+								"A window",
+								"West"
+							],
+							[
+								"X",
+								"A box",
+								"Exit",
+								"An X-ray",
+								"A fox",
+								"Toxic"
+							],
+							[
+								"Y",
+								"Yellow",
+								"A year",
+								"Yesterday",
+								"Yes",
+								"Toy"
+							],
+							[
+								"Z",
+								"Zero",
+								"A zoo",
+								"A zipper",
+								"Jazz Zebra"
+							]
+						]
+					}
+				],
+				[
+					{
+						"title":"Listening",
+						"courses": [
+							[
+								"This is Dan.",
+								"He comes from the US.",
+								"He is American.",
+								"He's American.",
+								"This is Tina.",
+								"She is from China.",
+								"She's from China.",
+								"She's Chinese."
+							],
+							[
+								"This is Ben.",
+								"Ben comes from Canada.",
+								"He doesn't come from the US.",
+								"He is Cannadian.",
+								"This is Lisa.",
+								"Lisa comes from the US.",
+								"She and Dan come from the US.",
+								"They are Americans.",
+								"They don't come from China."
+							],
+							[
+								"Lisa comes from the US, but she lives in China.",
+								"She doesn't live in the US.",
+								"She live in Shanghai.",
+								"Shanghai is a city in China.",
+								"Ben is from Canada and he lives in Canada.",
+								"He live in Toronto.",
+								"Toronto is a city in Canada."
+							],
+							[
+								"Here are three people, two man and a woman.",
+								"There are two man.",
+								"There is one woman."
+							],
+							[
+								"Here are four countries, France, Italy, Japan and India.",
+								"France and Italy are in Europe.",
+								"They are European countries.",
+								"Japan an India are in Asia.",
+								"They are Asian countries.",
+								"China is also an Asian country."
+							]
+						]
+					},
+					{
+						"title":"Vocabulary",
+						"courses": [
+							[
+								"A circle",
+								"A line A",
+								"box",
+								"A bag",
+								"A triangle"
+							],
+							[
+								"A circle",
+								"C-i-r-c-l-e",
+								"A line",
+								"L-i-n-e",
+								"A box",
+								"B-o-x",
+								"A bag",
+								"B-a-g",
+								"A triangle",
+								"T-r-i-a-n-g-l-e"
+							],
+							[
+								"Go to the bathroom",
+								"Come out of the bathroom.",
+								"Go in to the elevator.",
+								"Come out of the elevator.",
+								"Wait for the elevator."
+							],
+							[
+								"Spanish",
+								"Spanish is the language of Spain.",
+								"Chinese",
+								"People speak Chinese in China.",
+								"Japanese",
+								"In Japan, people speak Japanese.",
+								"English",
+								"People in Australia speak English.",
+								"Franch",
+								"France is the language of France."
+							],
+							[
+								"Turn left",
+								"Turn right",
+								"Go straight",
+								"Stop",
+								"Turn around"
+							],
+							[
+								"Sunny weather",
+								"Rainy weather",
+								"Cloudy weather",
+								"Cold weather",
+								"Hot weather"
+							]
+						]
+					},
+					{
+						"title":"Dialogue",
+						"courses": [
+							[
+								"Good morning, Tina. How are you today?",
+								"I'm fine. Thanks. How about you?",
+								"I'm fine. It's my birthday today.",
+								"Really? Well, happy birthday, Dan.",
+								"Thanks, Tina.",
+								"Oh, how old are you, Dan.",
+								"I'm 34 years old today.",
+								"Have a great day.",
+								"You too, Tina. Goodbye.",
+								"Bye-bye."
+							],
+							[
+								"Hello, my name is Ben.",
+								"I'm from Canada.",
+								"I live in Toronto.",
+								"I'm 12 years old.",
+								"I speak two language, English and French.",
+								"It's nice to meet you."
+							],
+							[
+								"Excuse me, may I ask you some questions?",
+								"Sure.",
+								"Thanks. Question number one, what's your name?",
+								"What is my name? My name is Ben.",
+								"Question number two, where are you from?",
+								"Where am I from? I'm from Canada.",
+								"Question number three, how old are you?",
+								"How old am I? I'm 12 years old.",
+								"Question number four, the last question, what languages do you speak?",
+								"What languages do I speak? I speak English and France.",
+								"Thank you.",
+								"You are welcome."
+							],
+							[
+								"Hi, my name is Kim. I come from Korea. Do you both come from the US?",
+								"No, we don't. We come from different countries. I come from China and he comes from the US."
+							]
+						]
+					},
+					{
+						"title":"Letters & Numbers",
+						"courses": [
+							[
+								"An apple",
+								"A banana",
+								"A circle",
+								"A dress",
+								"East",
+								"A family",
+								"Germany",
+								"A house",
+								"Ice",
+								"June",
+								"A kitchen",
+								"London",
+								"The Moon"
+							],
+							[
+								"Notebooks",
+								"An ocean",
+								"A pencil",
+								"Quiet",
+								"Read",
+								"Six",
+								"A tomato",
+								"The United Stated",
+								"Volleyball",
+								"Water",
+								"A fox",
+								"A year",
+								"A zipper"
+							],
+							[
+								"Five",
+								"Six",
+								"Seven",
+								"Ten",
+								"Twelve",
+								"Thirteen",
+								"Eighteen",
+								"Twenty",
+								"Twenty-two",
+								"Thirty",
+								"Thirty-six",
+								"Forty",
+								"Forty-one",
+								"Fifty",
+								"Fifty-seven",
+								"Sixty",
+								"Sixty-eight",
+								"Seventy",
+								"Seventy-four",
+								"Eighty",
+								"Eighty-nine",
+								"Ninety Ninety-three"
+							]
+						]
+					}
+				]
+			]
+	],
+	"Level 2": [],
+	"Level 3": [],
+	"Level 4": [],
+	"Level 5": [],
+	"Level 6": [],
+	"Level 7": [],
+	"Level 8": []
+}
