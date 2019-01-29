@@ -33,7 +33,7 @@ app.post('/upload', upload.single('file'), function (req, res, next) {
 
 	speechToText.recognize(recognizeParams, function(error, speechRecognitionResults) {
 	  if (error) {
-	    console.log(error);
+	    res.json(error);
 	  } else {
   		res.json(speechRecognitionResults);
 	  }
