@@ -24,7 +24,7 @@ app.post('/upload', upload.single('file'), function (req, res, next) {
 
 	var recognizeParams = {
 	  audio: combinedStream,
-	  'content_type': 'audio/wav',
+	  'content_type': req.file.mimetype,
 	  timestamps: true,
 	  // 'word_alternatives_threshold': 0.9,
 	  // keywords: ['this', 'is', 'Dan'],
